@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jiri Hostas</h1>
-<h3 align="center">A curious data analyst and ML developer based in Montreál, Canada</h3>
+<h3 align="center">A curious data analyst and ML developer based in Montreal, Canada</h3>
 
 - 🔭 I’m currently working on **development of new drug molecules and materials** 
 
