@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Jiri Hostas</h1>
 <h3 align="center">A curious data analyst and ML developer based in Calgary, Canada</h3>
 
-- 🔭 I’m currently working on **development of new perovskite materials**
+- 🔭 I’m currently working on **development of new drug molecules and materials** 
 
-- 🌱 I’m learning **pytorch**, **cloud computing** and **advanced visualisation techniques**
+- 🌱 I’m learning **pytorch**, **cloud computing** and **effective visualisation techniques**
 
 - 👯 I’m looking to collaborate on **data analysis / ML / AI** projects
 
